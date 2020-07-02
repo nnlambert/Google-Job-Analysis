@@ -28,7 +28,12 @@ in contrast to this trend: Perl, D, and Swift. The two most required by far were
 TBC
 The results for this analysis were very interesting. More soon.
 
-###
+### Location
 With regards to job location, the data showed what one would most likely have suspected. Google's primary place of hiring 
 tends to be Mountainview, CA. When considering locations outside of the United States and on the east coast of the United States,
 job hiring frequency plummets significantly. Images to come. 
+
+### Potential
+This project could be taken in a number of directions. I forsee one visualization wise in which The programming languages and Job categories possibly
+among other features in the data, are plotted on an interactive world map so the reach of google and the importance it places on which positions and skills
+are even more evident.
