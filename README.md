@@ -19,3 +19,16 @@ If you have an earlier version of plotly(~3.10.0), there is provisional code
 commented out on line 23 that should assist in viewing the visualizations.
 
 ## Results
+### Programming Languages
+Overall it is noticeable that minimum and preferred qualifications are similar in terms of what languages are present in each category.
+Google Jobs more often require a language at a minimum than calling it preferred. Tbere were three programming langugages in particular that stood out
+in contrast to this trend: Perl, D, and Swift. The two most required by far were python and java. 
+
+### Job Category
+TBC
+The results for this analysis were very interesting. More soon.
+
+###
+With regards to job location, the data showed what one would most likely have suspected. Google's primary place of hiring 
+tends to be Mountainview, CA. When considering locations outside of the United States and on the east coast of the United States,
+job hiring frequency plummets significantly. Images to come. 
