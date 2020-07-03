@@ -5,7 +5,7 @@ This project focuses on analyzing job data collected from Google's job board in 
 what skills are most typically sought after with regards to program language and which locations are most frequently hiring. More specifically, 
 the goal of this analysis is to visualize these aspects in order to inform future investigation.
 
-![Google_Job_Dataframe](./Final Visualizations/Google_Job_DF.png)
+![Google_Job_Dataframe](/Final Visualizations/Google_Job_DF.png)
 
 ## Technologies
 The dependencies used are as follows,
