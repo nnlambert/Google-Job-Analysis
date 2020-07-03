@@ -23,7 +23,7 @@ commented out on line 23 that should assist in viewing the visualizations.
 ## Results
 ### Programming Languages
 Overall it is noticeable that minimum and preferred qualifications are similar in terms of what languages are present in each category.
-Google Jobs more often require a language at a minimum than calling it preferred. Tbere were three programming langugages in particular that stood out
+Google Jobs more often require a language at a minimum than as a preference. There were three programming langugages in particular that stood out
 in contrast to this trend: Perl, D, and Swift. The two most required by far were python and java. 
 
 ![MinPref Comparison](Final_Visualizations/MinPref_Scatter_Comparison.png)
